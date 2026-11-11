@@ -10,7 +10,8 @@ const MODES = [
   "SMP",
   "MACE",
   "NETHERITE POT",
-  "AXE"
+  "AXE",
+  "DIAMOND POT"
 ];
 
 const playersList = document.getElementById("playersList");
