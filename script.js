@@ -11,7 +11,9 @@ const MODES = [
   "MACE",
   "NETHERITE POT",
   "AXE",
-  "DIAMOND POT"
+  "DIAMOND POT",
+  "UHC",
+  "SPEARMACE"
 ];
 
 const playersList = document.getElementById("playersList");
